@@ -34,3 +34,18 @@ the student with descriptions of them.
 ### Output:
 Here shown: <br/>
 CSE - DE - Software Developer.
+
+![Run1](https://user-images.githubusercontent.com/43794593/154134723-e5e93063-f297-4a5b-a7dc-01a21a0a7f27.png)
+
+![Run2](https://user-images.githubusercontent.com/43794593/154134729-e7b6d773-7400-4878-9725-17c6028aff23.png)
+
+![Run3](https://user-images.githubusercontent.com/43794593/154134736-6d62e9c4-4210-4326-b6ad-eca4ae230b07.png)
+
+![Run4](https://user-images.githubusercontent.com/43794593/154134739-fd5d4fcb-82a7-4fb5-ae43-1b272a6c9c3c.png)
+
+![Run5](https://user-images.githubusercontent.com/43794593/154134742-59d219ea-1c88-4be5-a547-a18950d9c0a4.png)
+
+
+
+
+
